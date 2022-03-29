@@ -1,0 +1,36 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="Javascript">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.([cm]?js|es\d)$" />
+                  <option name="pattern" value=".*\.([cm]?js|es\d)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Javascript" />
+                  <option name="icon" value="/icons/files/js.svg" />
+                  <option name="priority" value="1" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="New Association (1)">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^.*\.ext1$" />
+                  <option name="pattern" value="^.*\.ext1$" />
+                  <option name="enabled" value="false" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="New Association (1)" />
+                  <option name="priority" value="10000" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

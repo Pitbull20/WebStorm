@@ -1,0 +1,56 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Pasha Yasinskiy\AppData\Roaming\JetBrains\WebStorm2021.3-backup" value="true" />
+        <entry key="C:\Users\Pasha Yasinskiy\AppData\Roaming\JetBrains\WebStorm2021.3-backup\2022-03-26-22-11" value="true" />
+        <entry key="C:\Users\Pasha Yasinskiy\Application Data" value="true" />
+        <entry key="C:\Users\Pasha Yasinskiy\Desktop\employees_react" value="true" />
+        <entry key="C:\Users\Pasha Yasinskiy\marvel_react_progect" value="true" />
+        <entry key="D:\Front\JavaScript\ToDo List" value="true" />
+        <entry key="D:\employees_react" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_01" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_02" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_03" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_04" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_05" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_06" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_07" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_08" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_09" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_10" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_11" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_12" value="true" />
+        <entry key="D:\myCourse\Array Methods\unit_13" value="true" />
+        <entry key="D:\myCourse\JavaScript 2.0\dz_27_blank" value="true" />
+        <entry key="D:\myCourse\JavaScript 2.0\unit_08" value="true" />
+        <entry key="D:\myCourse\JavaScript 2.0\unit_11" value="true" />
+        <entry key="D:\myCourse\JavaScript OOP" value="true" />
+        <entry key="D:\myCourse\JavaScript OOP\unit_01" value="true" />
+        <entry key="D:\myCourse\JavaScript OOP\unit_02" value="true" />
+        <entry key="D:\myProject" value="true" />
+        <entry key="D:\myProject\Counter" value="true" />
+        <entry key="D:\myProject\React" value="true" />
+        <entry key="D:\myProject\reactProjects\inDevelopment" value="true" />
+        <entry key="D:\myProject\webProjects" value="true" />
+        <entry key="D:\myProjects\JavaScript" value="true" />
+        <entry key="D:\myProjects\ToDo Appliction" value="true" />
+        <entry key="D:\myProjects\appendElement" value="true" />
+        <entry key="D:\myProjects\firstProject" value="true" />
+        <entry key="D:\responsReact" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\myCourse\JavaScript 2.0" />
+        <option value="D:\myCourse\Array Methods" />
+        <option value="D:\myProject" />
+        <option value="C:\Users\Pasha Yasinskiy" />
+        <option value="D:\myProjects" />
+        <option value="D:\Front\JavaScript" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,396 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="25qDran6xzeDJeJuROEDEohOiSw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25qHSAJZQlfieIAR3a7NYC2e8c0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25qHV9Y9lH0WxrKA7bZu9bqR8CI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="260bLVzKIQK3KAxtiBiyiNMYaIv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="263SR8sHU0gpBQom0Wz6pmt15lR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26EXS9aIGVFZNIv8Nm4F5tecpzw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IVZOziVmgQttquTzZqD87RsE4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IVcFzN9ZPkKRcAivxoHj4Pdy9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IVefHxaN1I97N5WQPWDP4TndG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26IVhdqkkvl3Wd08OynBc4FnkgI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Q90USg8bDVXE996R3fC3qusY8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26QOavmvCWdRzo18vYVwqDCNZ7t">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26QPe38ftaC20mH1TBd65xyWhK8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26QQTPfCMn0IKlyXeiXOQ2Layof">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Qh3CkCtYiifCwM8OdgpqK56yi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Vu4Vl57Gi5JszjaDjpqJkrCtK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26WYUGmAwU4TU8FCq5uTjGbF19E">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Wf5TB4EwodNQ8jqjdRZ4NDVUU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26WnuXBbtieC0YbbgQ0UU3RSyxv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Xuv2E6m3HkzqJjIfhER2UdJAB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y0SmM308OeUIVrFUHjSPUTRdM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y190zLBbIyahpOgEFC07EhmSg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y2mngnpX9JvFm1FZyMVWhqHKe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y37B4hn5iRPWc2Iww9TFIhEvE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y3c8Eg2nSwENZy717OO1DGiyx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y4LbJup1hURpltT99wm6gjW5t">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26Y4aboKiF6rhyrq56lr9XxeEcS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YParqSzbNpO2ktR78gAS82Ixt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YPdwLeqeMe2bR0GKGiaEtg1DD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YPngEjMwy6GbXEkq4oSGUVvWN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YR8NtsVQrVt3A4aKJRLBm6zUK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YS6DyB4wpZvIoeHARUmn3JMBN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YxBtFsgJuYY5gOS3ODu5YwbRN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ZBb0JV3E8Xa0VsXznwkQJYNng">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ZBz8AMtms2946CzsNM5nVlk4x">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26b4mLEiNEKfZWDoK5LSjjVXHty">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26bVnphKFeLqFCd72l1Yd8ZDse7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26dkRRacsEzhF2H1iewGKhf6nv3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26fJokWCkzPELOvyGmUWPjkBSXF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26fMXjw8dA0p83nNeOoh2cEh3Jl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ge7F6G0zNpuyAuIPsfPdTNcQS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26glmWQ8HWFOox8BENsd2abHPXF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26gnqZ7bKsuzOhdcGjVjo3rmAYC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26gy0gl8AfEp5wmPESbc5eDgocZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26h7FlKTSDSbO5yTMYwsUuYA3Fa">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26h7HeiPrvcntZOauJ4RCHhIgex">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26hLRkRTDAVOPHV0HtaOXa7fc5U">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26hoeQgGZdD0kFtljR0Y3uo4tI8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26jKAKARQNZyCyrYGaTM9M6hO8u">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26mboYcuuRzPZDT1rl2fcYrXy5B">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26nSGi6n2CK6uNCGhCt4065jm1M">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26q5r7Ot43hQPOEMlRZSTdRdJZZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26tCSJpW21zVJ7C6AoorxqvN0h6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ubGJwn6aOYqdJrlBy32C64iOL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26v8X4EUXA0lqgFM5KabczhTDtp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26vFse3lW5dkGF33grdk7ZxRrPg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26w6Az8PEBITYJp6Yz7G1EXPYrb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26w6CrkW1hkQzgGpf9KWUTEBpCq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26w8U6idbGVatX5DSslSGGNS3zl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26wBNi5cBi16iNkmNB5NtGDWChS">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26yQsJDEDRdq6Zg4jGMayoZLdQW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ykfF8Qj6O1lzNakOTsQAHMbi9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2708rxIStaFcL13mhAZdtY499E3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="270BGOeFp5DFNjp8RDtOorXO79a">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="ColorChooser.RecentColors" value="38-50-56-255,,,176-176-176-84,,,0-0-0-195,,,33-33-33-255,,,176-176-176-55,,,0-0-0-219,,,255-255-255-255,,,176-176-176-255,,,52-210-236-255,,,37-8-46-255,,,67-31-79-255,,,77-69-104-165,,,77-69-104-255,,,253-253-253-255,,,70-24-24-255,,,125-105-181-255,,,246-192-192-255,,,237-233-233-255,,,216-209-209-255,,,165-165-165-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="ww\&#10;ww&#10;Mate&#10;Mat&#10;Ma" />
+    <property name="KEYMAP" value="Save&#10;Prettier&#10;Prett" />
+    <property name="Markdown Split EditorLayout" value="Preview only" />
+    <property name="MarketplacePluginsSearchHistory" value="Russian&#10;Monokai Icons&#10;Monokai Ico&#10;Monokai Icoms&#10;Monokai Icom" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Mat&#10;Termi&#10;Mater&#10;background&#10;Material" />
+    <property name="appcds.runOnSecondStart" value="WS-213.7172.31-2bef75fbfd436c3bf0fd813b043f3abde93d9a58100473ec10b69455d23ba812" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="WS-213.7172.31" />
+    <property name="file.chooser.recent.files" value="D:/Front/JavaScript/ToDo List&#10;D:/myProjects/ToDo Appliction&#10;D:/myProjects/appendElement&#10;D:/&#10;D:/myProjects/firstProject&#10;C:/Users/Pasha Yasinskiy/Desktop/employees_react&#10;C:/Users/Pasha Yasinskiy/Application Data&#10;D:/myProjects/JavaScript/firstProject&#10;C:/Users/Pasha Yasinskiy/AppData/Roaming/JetBrains/WebStorm2021.3&#10;C:/Users/Pasha Yasinskiy/marvel_react_progect&#10;D:/myProjects/JavaScript&#10;C:/Users/Pasha Yasinskiy/AppData/Roaming/npm/sass.cmd&#10;D:/myProject/JavaScript Projects/ToDo LIst&#10;D:/myProject/JavaScript Projects/ToDo List&#10;D:/myProject/JavaScript Projects/firstProject&#10;D:/myProject/JavaScript Projects/Modal Window &amp; Img&#10;D:/myProject/JavaScript Projects/Classes Components&#10;D:/myProject/JavaScript Projects/Modal Window&#10;D:/myProject/JavaScript Projects/Select&#10;D:/myProject/JavaScript Projects/Modal Screen&#10;D:/myProject&#10;D:/myProject/Counter&#10;D:/myCourse/JavaScript OOP/unit_03&#10;D:/myCourse/JavaScript OOP/unit_08&#10;D:/myCourse/JavaScript OOP/unit_06&#10;D:/myCourse/JavaScript OOP/unit_07&#10;D:/myCourse/JavaScript OOP/unit_05&#10;D:/myCourse/JavaScript OOP&#10;D:/myCourse/JavaScript OOP/unit_04&#10;D:/myCourse/JavaScript OOP/unit_02" />
+    <property name="file.gist.reindex.count" value="323" />
+    <property name="fileTypeChangedCounter" value="34" />
+    <property name="fileTypeDetectors" value="com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.builtin.web.server.reload.on.save" value="1" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="got.it.tooltip.web.preview.reload.on.save" value="1" />
+    <property name="gotit.previous.run" value="WS-213.6777.57" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.old.dirs.scan.scheduled" value="1649139615352" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="ift.learning.panel.opened.in" value="213.6777.57" />
+    <property name="last_opened_file_path" value="D:/Front/JavaScript/ToDo List" />
+    <property name="mt.autoReset" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="registry.to.advanced.settings.migration.build" value="WS-213.7172.31" />
+    <property name="second.reformat.confirmed" value="true" />
+    <property name="selected.color.option.type" value="LOG_DEBUG_OUTPUT" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="terminalCustomCommandExecutionTurnOff" value="false" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="unit_01-history" project-path="D:/myCourse/Array Methods/unit_01" last-access-time="1647361530076" />
+      <command-history-file filename="JavaScript OOP-history" project-path="D:/myCourse/JavaScript OOP" last-access-time="1647809822628" />
+      <command-history-file filename="unit_02-history" project-path="D:/myCourse/JavaScript OOP/unit_02" last-access-time="1647635033016" />
+      <command-history-file filename="responsReact-history" project-path="D:/responsReact" last-access-time="1647621298849" />
+      <command-history-file filename="2022-03-26-22-11-history" project-path="$USER_HOME$/AppData/Roaming/JetBrains/WebStorm2021.3-backup/2022-03-26-22-11" last-access-time="1648322180507" />
+      <command-history-file filename="employees_react-history10" project-path="$USER_HOME$/Desktop/employees_react" last-access-time="1648376814795" />
+      <command-history-file filename="employees_react-history1" project-path="D:/employees_react" last-access-time="1647634524566" />
+      <command-history-file filename="dz_27_blank-history" project-path="D:/myCourse/JavaScript 2.0/dz_27_blank" last-access-time="1647352544213" />
+      <command-history-file filename="Modal Screen-history1" project-path="D:/myProject/JavaScript Projects/Modal Screen" last-access-time="1647865479279" />
+      <command-history-file filename="ToDo Appliction-history" project-path="D:/myProjects/ToDo Appliction" last-access-time="1648446406951" />
+      <command-history-file filename="WebStorm2021.3-backup-history" project-path="$USER_HOME$/AppData/Roaming/JetBrains/WebStorm2021.3-backup" last-access-time="1648371774461" />
+      <command-history-file filename="Modal Window &amp; Img-history" project-path="D:/myProject/JavaScript Projects/Modal Window &amp; Img" last-access-time="1647931529172" />
+      <command-history-file filename="ToDo List-history" project-path="D:/Front/JavaScript/ToDo List" last-access-time="1648496101617" />
+      <command-history-file filename="Select-history1" project-path="D:/myProject/JavaScript Projects/Select" last-access-time="1647885619632" />
+      <command-history-file filename="React-history" project-path="D:/myProject/React" last-access-time="1647598378362" />
+      <command-history-file filename="firstProject-history" project-path="D:/myProject/JavaScript Projects/firstProject" last-access-time="1648061087907" />
+      <command-history-file filename="marvel_react_progect-history" project-path="$USER_HOME$/marvel_react_progect" last-access-time="1648303737779" />
+      <command-history-file filename="firstProject-history1" project-path="D:/myProjects/JavaScript/firstProject" last-access-time="1648295148898" />
+    </command-history-files>
+  </component>
+</application>

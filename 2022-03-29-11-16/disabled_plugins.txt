@@ -1,0 +1,7 @@
+com.intellij.laf.win10
+com.jetbrains.darkPurpleTheme
+com.jinsihou.react.snippets
+com.markskelton.one-dark-theme
+com.wix.sasslint
+lermitage.intellij.extra.icons
+net.antelle.intellij-xcode-dark-theme
